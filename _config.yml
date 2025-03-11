@@ -9,7 +9,7 @@ version: 2
 name: Lorenzo Pannacci
 title: Master's Student @ M.Sc. Data Science, Sapienza Università di Roma
 email: lorenzo.pannacci.01@gmail.com
-website: www.lorenzopannacci.github.io/
+website: www.lorenzopannacci.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -88,14 +88,14 @@ content:
     content:
       - layout: left
         title: Yao's Garbled Circuits from scratch
-        link: www.github.com/LorenzoPannacci/DPS-FinalProject
+        link: github.com/LorenzoPannacci/DPS-FinalProject
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python all the components required for Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer.
 
       - layout: left
         title: Recurrent Neural Network for Music Generation
-        link: www.github.com/LorenzoPannacci/NNDS-FinalProject
+        link: github.com/LorenzoPannacci/NNDS-FinalProject
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Jax a LSTM-based recurrent neural network and trained it on a large collection of MIDI files for a task of music generation.
