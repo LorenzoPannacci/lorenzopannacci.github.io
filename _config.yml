@@ -31,9 +31,9 @@ linkedin_username: lorenzo-pannacci
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+- title: kaggle.com
+  icon: fas fa-kaggle
+  url: https://www.kaggle.com/lorenzopannacci
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -89,14 +89,14 @@ content:
       - layout: left
         title: Yao's Garbled Circuits
         link: github.com/LorenzoPannacci/DPS-FinalProject
-        link_text: repository
+        link_text: Github repository
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python all the components required for Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer.
 
       - layout: left
         title: RNN for Music Generation
         link: github.com/LorenzoPannacci/NNDS-FinalProject
-        link_text: repository
+        link_text: Github repository
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Jax a LSTM-based recurrent neural network and trained it on a large collection of MIDI files for a task of music generation.
 
