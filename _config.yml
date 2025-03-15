@@ -79,6 +79,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 100 / 100 cum laude
 
+          During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
