@@ -61,7 +61,7 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
-          Currently enrolled as a second year student following the Honours' Programme.
+          I am currently enrolled as a second year student following the Honours' Programme.
 
       - layout: left
         title: B.Sc. Computer and System Engineering
@@ -79,6 +79,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 100 / 100 cum laude
 
+          During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -94,14 +96,14 @@ content:
         link: github.com/LorenzoPannacci/NNDS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Jax a LSTM-based recurrent neural network and trained it on a large collection of MIDI files for the task of music generation.
+          I implemented from scratch in JAX a LSTM-based recurrent neural network and trained it on a large collection of MIDI files for the task of music generation.
 
       - layout: left
-        title: Distribuited Graph Convolutional Network
+        title: Distribuited Graph Convolutional Networks
         link: github.com/LorenzoPannacci/SPML-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented of the distribuited graph convolutional network training algorithm described in the paper "Distributed Training of Graph Convolutional Networks".
+          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "Distributed Training of Graph Convolutional Networks".
 
   - title: Awards and Competitions # Title for the section
     layout: list # Type of content section (list/text)
