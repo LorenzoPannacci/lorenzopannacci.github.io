@@ -103,6 +103,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           I implemented of the distribuited graph convolutional network training algorithm described in the paper "Distributed Training of Graph Convolutional Networks".
 
+  - title: Awards and Competitions # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 1st place @ Training Camp - Multimodal learning
+        description: | # this will include new lines to allow paragraphs
+          Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about 'Multimodal Learning from Language and Vision Processing Neural Networks'.
+
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
