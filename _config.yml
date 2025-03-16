@@ -79,7 +79,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 100 / 100 cum laude
 
-          During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels.
+          During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels both alone and in teams.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,21 +89,21 @@ content:
         link: github.com/LorenzoPannacci/DPS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Python all the components required for Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer.
+          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer. The result of many different example circuits are provided as integers and float operations, hashing, encryption and coin tossing.
 
       - layout: left
         title: Recurrent Neural Network for Music Generation
         link: github.com/LorenzoPannacci/NNDS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX a LSTM-based recurrent neural network and trained it on a large collection of MIDI files for the task of music generation.
+          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
 
       - layout: left
         title: Distribuited Graph Convolutional Networks
         link: github.com/LorenzoPannacci/SPML-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "Distributed Training of Graph Convolutional Networks".
+          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "Distributed Training of Graph Convolutional Networks" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
 
   - title: Awards and Competitions # Title for the section
     layout: list # Type of content section (list/text)
