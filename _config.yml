@@ -89,7 +89,7 @@ content:
         link: github.com/LorenzoPannacci/DPS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer. The result of many different example circuits are provided as integers and float operations, hashing, encryption and coin tossing.
+          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
 
       - layout: left
         title: Recurrent Neural Network for Music Generation
@@ -103,7 +103,7 @@ content:
         link: github.com/LorenzoPannacci/SPML-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "Distributed Training of Graph Convolutional Networks" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
+          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<i>Distributed Training of Graph Convolutional Networks</i>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
 
   - title: Awards and Competitions # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +111,7 @@ content:
       - layout: left
         title: 1st place @ Training Camp - Multimodal learning
         description: | # this will include new lines to allow paragraphs
-          Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about 'Multimodal Learning from Language and Vision Processing Neural Networks'.
+          Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
 
 
 # Footer
