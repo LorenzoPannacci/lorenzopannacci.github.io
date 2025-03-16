@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
@@ -53,9 +53,15 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+#############
+# EDUCATION #
+#############
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      # master's degree
       - layout: left
         title: M.Sc. Data Science
         caption: 2023 - 2025
@@ -63,6 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently enrolled as a second year student following the Honours' Programme.
 
+      # bachelor's degree
       - layout: left
         title: B.Sc. Computer and System Engineering
         caption: 2020 - 2023
@@ -72,6 +79,7 @@ content:
 
           Thesis: "<i>Generating and Using Synthetic Data from Three-Dimensional Scenes for Object Detection</i>".
 
+      # high school
       - layout: left
         title: High School Diploma, Liceo Scientifico Tradizionale
         caption: 2015 - 2020
@@ -81,35 +89,53 @@ content:
 
           During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels both alone and in teams.
 
-  - title: Projects # Title for the section
+############
+# PROJECTS #
+############
+
+  - title: Projects
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Yao's Garbled Circuits
-        link: github.com/LorenzoPannacci/DPS-FinalProject
-        link_text: Github repository
-        description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
 
-      - layout: left
-        title: Recurrent Neural Network for Music Generation
-        link: github.com/LorenzoPannacci/NNDS-FinalProject
-        link_text: Github repository
-        description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
-
+      # spml final project
       - layout: left
         title: Distribuited Graph Convolutional Networks
+        sub_title: February 2025
         link: github.com/LorenzoPannacci/SPML-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<i>Distributed Training of Graph Convolutional Networks</i>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
 
-  - title: Awards and Competitions # Title for the section
+      # nnds final project
+      - layout: left
+        title: Recurrent Neural Network for Music Generation
+        sub_title: January 2025
+        link: github.com/LorenzoPannacci/NNDS-FinalProject
+        link_text: Github repository
+        description: | # this will include new lines to allow paragraphs
+          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
+
+      # dps final project
+      - layout: left
+        title: Yao's Garbled Circuits
+        sub_title: January 2025
+        link: github.com/LorenzoPannacci/DPS-FinalProject
+        link_text: Github repository
+        description: | # this will include new lines to allow paragraphs
+          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
+
+###########################
+# AWARDS AND COMPETITIONS #
+###########################
+
+  - title: Awards and Competitions
     layout: list # Type of content section (list/text)
     content:
+
+      # training camp
       - layout: left
         title: 1st place @ Training Camp - Multimodal learning
+        sub_title: September 2024
         description: | # this will include new lines to allow paragraphs
           Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
 
