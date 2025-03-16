@@ -70,7 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 110 / 110 cum laude
 
-          Thesis: "Generating and Using Synthetic Data from Three-Dimensional Scenes for Object Detection"
+          Thesis: "<i>Generating and Using Synthetic Data from Three-Dimensional Scenes for Object Detection</i>".
 
       - layout: left
         title: High School Diploma, Liceo Scientifico Tradizionale
