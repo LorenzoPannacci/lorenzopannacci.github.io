@@ -89,7 +89,7 @@ content:
         link: github.com/LorenzoPannacci/DPS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and oblivious transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
+          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
 
       - layout: left
         title: Recurrent Neural Network for Music Generation
