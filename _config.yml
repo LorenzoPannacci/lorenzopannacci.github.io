@@ -138,7 +138,7 @@ content:
       - layout: left
         title: 1st place @ Training Camp - Multimodal learning
         sub_title: September 2024
-        link: https://github.com/LorenzoPannacci/TrainingCamp-Leonardo
+        link: github.com/LorenzoPannacci/TrainingCamp-Leonardo
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
           Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
