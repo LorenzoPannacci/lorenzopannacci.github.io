@@ -63,6 +63,7 @@ content:
 
       # master's degree
       - layout: left
+        border: weak
         title: M.Sc. Data Science
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
@@ -71,6 +72,7 @@ content:
 
       # bachelor's degree
       - layout: left
+        border: weak
         title: B.Sc. Computer and System Engineering
         caption: 2020 - 2023
         sub_title: Sapienza Università di Roma
