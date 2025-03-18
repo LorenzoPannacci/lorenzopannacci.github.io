@@ -101,12 +101,13 @@ content:
 # PROJECTS #
 ############
 
-  - title: Projects
+  - title: Featured Projects
     layout: list # Type of content section (list/text)
     content:
 
       # spml final project
       - layout: left
+        border: weak
         title: Distribuited Graph Convolutional Networks
         sub_title: February 2025
         link: github.com/LorenzoPannacci/SPML-FinalProject
@@ -116,6 +117,7 @@ content:
 
       # nnds final project
       - layout: left
+        border: weak
         title: Recurrent Neural Network for Music Generation
         sub_title: January 2025
         link: github.com/LorenzoPannacci/NNDS-FinalProject
