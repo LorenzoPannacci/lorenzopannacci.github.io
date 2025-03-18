@@ -77,6 +77,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 110 / 110 cum laude
 
+          ---
+
           In my thesis "<i>Generating and Using Synthetic Data from Three-Dimensional Scenes for Object Detection</i>" I explored the generation of synthetic data from 3D environments to mitigate the domain shift between training and test data in the setting of precision agriculture. Using NVIDIA Omniverse, I created synthetic datasets of grape clusters and combined them with real-world data to train YOLOv5 object detection models.
           
           The results demonstrated that synthetic data effectively reduced the domain gap, improving object detection accuracy in the target environment. Additionally, I achieved a small performance boost even within the original domain, highlighting the broader potential of synthetic data in supervised learning for computer vision tasks.
@@ -88,6 +90,8 @@ content:
         sub_title: Liceo Statale Democrito
         description: | # this will include new lines to allow paragraphs
           Grade: 100 / 100 cum laude
+
+          ---
 
           During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels both alone and in teams.
 
