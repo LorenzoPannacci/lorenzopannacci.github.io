@@ -70,7 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently enrolled as a second year student following the Honours' Programme.
 
-          Recipient of "<i>Exam bonus<\i>" merits from Sapienza.
+          Recipient of "<i>Exam bonus</i>" merits from Sapienza.
 
       # bachelor's degree
       - layout: left
@@ -81,7 +81,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 110 / 110 cum laude
 
-          Recipient of "<i>Outstanding student<\i>" merits from Sapienza.
+          Recipient of "<i>Outstanding student</i>" merits from Sapienza.
 
           ---
 
