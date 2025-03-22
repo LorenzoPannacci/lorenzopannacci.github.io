@@ -157,6 +157,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
 
+      # pcto roma 3
+      - layout: left
+        title: Best student @ PCTO Roma Tre - "Da Grande Farò il Biologo Ricercatore"
+        sub_title: February 2019
+        description: | # this will include new lines to allow paragraphs
+          During my 4th year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I have been selected as a representative for my school for the project "Da Grande Farò il Biologo Ricercatore", hosted by Roma Tre university.
+
+          The project consisted in a full-time week of lectures and laboratory sessions made by biology professors of the university and ended with a final examination. Thanks to my score in the evaluation I have been awarded the possibility of entering the Bachelor's course of Biology at Roma Tre without performing the admission test.
+
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
