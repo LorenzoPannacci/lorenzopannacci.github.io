@@ -70,6 +70,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently enrolled as a second year student following the Honours' Programme.
 
+          Recipient of "Exam Bonus" benefits from Sapienza.
+
       # bachelor's degree
       - layout: left
         border: weak
@@ -78,6 +80,8 @@ content:
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
           Grade: 110 / 110 cum laude
+
+          Recipient of "Outstanding student" benefits from Sapienza.
 
           ---
 
