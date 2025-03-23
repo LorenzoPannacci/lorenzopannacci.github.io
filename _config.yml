@@ -10,7 +10,9 @@ name: Master's Student @ M.Sc. Data Science, Sapienza Università di Roma
 title: Lorenzo Pannacci
 email: lorenzo.pannacci.01@gmail.com
 website: lorenzopannacci.github.io
-description: Portfolio of Lorenzo Pannacci, Data Scientist and Master's student in Data Science at Sapienza University of Rome
+description: I am a Master student in Data Science. This is my personal website and portfolio.
+keywords: lorenzo, pannacci, sapienza, artificial, intelligence, data, science, intelligenza, artificiale, personal, website, portfolio
+language: English
 
 # Dark Mode (true/false/never)
 darkmode: false
