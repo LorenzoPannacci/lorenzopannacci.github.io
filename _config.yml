@@ -133,6 +133,7 @@ content:
 
       # dps final project
       - layout: left
+        border: weak
         title: Yao's Garbled Circuits
         sub_title: January 2025
         link: github.com/LorenzoPannacci/DPS-FinalProject
@@ -140,7 +141,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
 
-# nbd homework
+      # nbd homework
       - layout: left
         title: Comparison of Data Center Network Topologies
         sub_title: May 2024
@@ -159,6 +160,7 @@ content:
 
       # training camp
       - layout: left
+        border: weak
         title: 1st place @ Training Camp - Multimodal learning
         sub_title: September 2024
         link: github.com/LorenzoPannacci/TrainingCamp-Leonardo
@@ -168,12 +170,20 @@ content:
 
       # pcto roma 3
       - layout: left
+        border: weak
         title: Best student @ PCTO Roma Tre - "Da Grande Farò il Biologo"
         sub_title: February 2019
         description: | # this will include new lines to allow paragraphs
           During my 4th year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I have been selected as a representative for my school for the project "Da Grande Farò il Biologo", hosted by Roma Tre university's biology department.
 
           The project consisted in a full-time week of lectures and laboratory sessions made by biology professors of the university and ended with a final examination. Thanks to my score in the evaluation I have been awarded the possibility of entering the Bachelor's course of Biology at Roma Tre without taking the admission test.
+
+      # honourable mention
+      - layout: left
+        title: Honourable Mention @ Gamun 2018
+        sub_title: May 2018
+        description: | # this will include new lines to allow paragraphs
+          During my 3rd year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I participated in the Global Action Model United Nations (GAMUN) 2018, a simulation of UN diplomatic negotiations hosted at the World Food Programme (WFP) Headquarters in Rome and my performances earned me an Honourable Mention at the end of the event.
 
 
 # Footer
