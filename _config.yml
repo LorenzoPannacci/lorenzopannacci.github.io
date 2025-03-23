@@ -140,6 +140,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
 
+# nbd homework
+      - layout: left
+        title: Comparison of Data Center Network Topologies
+        sub_title: May 2024
+        link: https://github.com/LorenzoPannacci/NBD-HW1
+        link_text: Github repository
+        description: | # this will include new lines to allow paragraphs
+          I designed and implemented a scenario to confront two well-known data center networking topologies for distribuited computing (Fat-Tree and Jellyfish), against a baseline of a non-distribuited computation. Using simulations I obtained data about their job running cost including overhead and mean response time varying the amount of servers and summarized my findings in plots.
+
 ###########################
 # AWARDS AND COMPETITIONS #
 ###########################
