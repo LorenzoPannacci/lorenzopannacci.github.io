@@ -62,7 +62,7 @@ content:
     content:
 
       # master's degree
-      - layout: left
+      - layout: top
         border: weak
         title: M.Sc. Data Science
         caption: 2023 - 2025
@@ -73,7 +73,7 @@ content:
           Recipient of "<i>Exam bonus</i>" merits from Sapienza.
 
       # bachelor's degree
-      - layout: left
+      - layout: top
         border: weak
         title: B.Sc. Computer and System Engineering
         caption: 2020 - 2023
@@ -90,7 +90,7 @@ content:
           The results demonstrated that synthetic data effectively reduced the domain gap, improving object detection accuracy in the target environment. Additionally, I achieved a small performance boost even within the original domain, highlighting the broader potential of synthetic data in supervised learning for computer vision tasks.
 
       # high school
-      - layout: left
+      - layout: top
         title: High School Diploma, Liceo Scientifico Tradizionale
         caption: 2015 - 2020
         sub_title: Liceo Statale Democrito
