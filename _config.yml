@@ -130,7 +130,7 @@ content:
         link: github.com/LorenzoPannacci/DPS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including circuit parsing form files (described in the '<a href="https://nigelsmart.github.io/MPC-Circuits/old-circuits.html" target="_blank" rel="noopener noreferrer">Bristol Format</a>'), socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided, as integer and float operations, hashing, encryption and coin tossing.
+          I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including circuit parsing form files (described in the "<a href="https://nigelsmart.github.io/MPC-Circuits/old-circuits.html" target="_blank" rel="noopener noreferrer">Bristol Format</a>"), socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided, as integer and float operations, hashing, encryption and coin tossing.
 
       # binm final project
       - layout: left
@@ -140,7 +140,9 @@ content:
         link: github.com/LorenzoPannacci/BINM-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms and applied them to retinal dystrophy data, with the primary objective of drug repurposing. We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. The findings were then synthesized into a comprehensive report.
+          My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
+          
+          We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. The findings were then synthesized into a comprehensive report.
 
       # nnds final project
       - layout: left
@@ -150,7 +152,9 @@ content:
         link: github.com/LorenzoPannacci/NNDS-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
+          I implemented from scratch in JAX all the layers and optimization algorithms for an LSTM-based Recurrent Neural Network, including LSTM layers, embedding layers, dropout layers and the RMSprop training algorithm. The network is trained for the autoregressive task of music generation on a large collection of tokenized MIDI files, resulting in 24 million training samples.
+
+          Listenable examples are provided by processing converting the generated sequences back into MIDI files and converting them into audio using a music synthesizer.
 
       # nbd homework
       - layout: left
