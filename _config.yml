@@ -135,7 +135,7 @@ content:
       # binm final project
       - layout: left
         border: weak
-        title: Gene Prioritization and Drug Repurposing on Retinal Distrophy
+        title: Drug Repurposing for Retinal Distrophy
         sub_title: January 2025
         link: github.com/LorenzoPannacci/BINM-FinalProject
         link_text: Github repository
