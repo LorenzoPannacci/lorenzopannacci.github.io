@@ -122,16 +122,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
 
-      # nnds final project
-      - layout: left
-        border: weak
-        title: Recurrent Neural Network for Music Generation
-        sub_title: January 2025
-        link: github.com/LorenzoPannacci/NNDS-FinalProject
-        link_text: Github repository
-        description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
-
       # dps final project
       - layout: left
         border: weak
@@ -141,6 +131,28 @@ content:
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer. The result of many different example circuits are provided as integer and float operations, hashing, encryption and coin tossing.
+
+      # binm final project
+      - layout: left
+        border: weak
+        title: Gene Prioritization and Drug Repurposing on Retinal Distrophy
+        sub_title: January 2025
+        link: github.com/LorenzoPannacci/BINM-FinalProject
+        link_text: Github repository
+        description: | # this will include new lines to allow paragraphs
+          Me and my team performed a comparative analysis of state-of-the-art disease gene prioritization algorithms and applied them on data about retinal distrophy for the main task of drug repurposing by means of network medicine. We My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
+
+          We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. The findings were then synthesized into a comprehensive report.
+
+      # nnds final project
+      - layout: left
+        border: weak
+        title: Recurrent Neural Network for Music Generation
+        sub_title: December 2024
+        link: github.com/LorenzoPannacci/NNDS-FinalProject
+        link_text: Github repository
+        description: | # this will include new lines to allow paragraphs
+          I implemented from scratch in JAX all the layers and optimization algorithms for a LSTM-based Recurrent Neural Network and trained it on a large collection of tokenized MIDI files for the autoregressive task of music generation. Listenable examples are provided by processing the generated sequences with a music synthesizer.
 
       # nbd homework
       - layout: left
