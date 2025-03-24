@@ -140,9 +140,9 @@ content:
         link: github.com/LorenzoPannacci/BINM-FinalProject
         link_text: Github repository
         description: | # this will include new lines to allow paragraphs
-          My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
+          My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms (e.g. DIAMOnD, DiaBLE) and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
           
-          We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. The findings were then synthesized into a comprehensive report.
+          We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. Our findings were then synthesized into a comprehensive report.
 
       # nnds final project
       - layout: left
