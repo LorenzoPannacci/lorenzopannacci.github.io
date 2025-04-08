@@ -188,7 +188,7 @@ content:
           url: https://github.com/LorenzoPannacci/TLC-HW1
         - title: Github repository 2
           icon: fab fa-github
-          url: https://github.com/LorenzoPannacci/TLC-HW1
+          url: https://github.com/LorenzoPannacci/TLC-HW2
         description: | # this will include new lines to allow paragraphs
           I used the C++ library "ns-3" to create network simulations of TCP/UDP connections between machines both in wired and WLAN mobile enviroments and then used the software "Wireshark" to perform packet traffic analysis and visualized the communication using NetAnim.
 
