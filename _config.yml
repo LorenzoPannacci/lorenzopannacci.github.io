@@ -215,6 +215,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
 
+          The competition was about reverse-engineering a image-generating model by extracting the hidden context it has been given starting from the generated image and its textual description.
+
       # pcto roma 3
       - layout: left
         border: weak
