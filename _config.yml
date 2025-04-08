@@ -177,6 +177,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           I designed and implemented a scenario to confront two well-known data center networking topologies for distribuited computing (Fat-Tree and Jellyfish), against a baseline of a non-distribuited computation. Using simulations I obtained data about their job running cost including overhead and mean response time varying the amount of servers and summarized my findings in plots.
 
+      # tlc homeworks
+      - layout: left
+        title: Network simulations, traffic analysis and visualization
+        sub_title: Dec 2022
+        additional_links:
+        - title: Github repository 1
+          icon: fab fa-github
+          url: https://github.com/LorenzoPannacci/TLC-HW1
+        - title: Github repository 2
+          icon: fab fa-github
+          url: https://github.com/LorenzoPannacci/TLC-HW1
+        description: | # this will include new lines to allow paragraphs
+          I used the C++ library "ns-3" to create network simulations of TCP/UDP connections between machines both in wired and WLAN mobile enviroments and then used the software "Wireshark" to perform packet traffic analysis and visualized the communication using NetAnim.
+
 ###########################
 # AWARDS AND COMPETITIONS #
 ###########################
