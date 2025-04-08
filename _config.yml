@@ -117,12 +117,10 @@ content:
         border: weak
         title: Distribuited Graph Convolutional Networks
         sub_title: February 2025
-        link: github.com/LorenzoPannacci/SPML-FinalProject
-        link_text: Github repository
         additional_links:
-        - title:  Github repository 2
-          icon: fab fa-github-square
-          url: github.com/LorenzoPannacci/DPS-FinalProject
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/SPML-FinalProject
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
 
@@ -131,8 +129,10 @@ content:
         border: weak
         title: Yao's Garbled Circuits
         sub_title: January 2025
-        link: github.com/LorenzoPannacci/DPS-FinalProject
-        link_text: Github repository
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/DPS-FinalProject
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in Python the components required for Yao's Garbled Circuits, a cryptographic protocol for secure two-party computation, including circuit parsing form files (described in the "<a href="https://nigelsmart.github.io/MPC-Circuits/old-circuits.html" target="_blank" rel="noopener noreferrer">Bristol Format</a>"), socket communication and cryptographic primitives as asymmetric encryption and Oblivious Transfer.
           
@@ -143,8 +143,10 @@ content:
         border: weak
         title: Drug Repurposing for Retinal Distrophy
         sub_title: January 2025
-        link: github.com/LorenzoPannacci/BINM-FinalProject
-        link_text: Github repository
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/BINM-FinalProject
         description: | # this will include new lines to allow paragraphs
           My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms (e.g. DIAMOnD, DiaBLE) and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
           
@@ -155,8 +157,10 @@ content:
         border: weak
         title: Recurrent Neural Network for Music Generation
         sub_title: December 2024
-        link: github.com/LorenzoPannacci/NNDS-FinalProject
-        link_text: Github repository
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/NNDS-FinalProject
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in JAX all the layers and optimization algorithms for an LSTM-based Recurrent Neural Network, including LSTM layers, embedding layers, dropout layers and the RMSprop training algorithm. The network is trained for the autoregressive task of music generation on a large collection of tokenized MIDI files, resulting in 24 million training samples.
 
@@ -166,8 +170,10 @@ content:
       - layout: left
         title: Comparison of Data Center Network Topologies
         sub_title: May 2024
-        link: https://github.com/LorenzoPannacci/NBD-HW1
-        link_text: Github repository
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: https://github.com/LorenzoPannacci/NBD-HW1
         description: | # this will include new lines to allow paragraphs
           I designed and implemented a scenario to confront two well-known data center networking topologies for distribuited computing (Fat-Tree and Jellyfish), against a baseline of a non-distribuited computation. Using simulations I obtained data about their job running cost including overhead and mean response time varying the amount of servers and summarized my findings in plots.
 
@@ -184,8 +190,13 @@ content:
         border: weak
         title: 1st place @ Training Camp - Multimodal learning
         sub_title: September 2024
-        link: github.com/LorenzoPannacci/TrainingCamp-Leonardo
-        link_text: Github repository
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/TrainingCamp-Leonardo
+        - title: Kaggle competition
+          icon: fab fa-kaggle
+          url: kaggle.com/competitions/multimodal-classification-tc-sep-2024
         description: | # this will include new lines to allow paragraphs
           Me and my team won the first place in the competition made by Leonardo Company S.p.A. for the Training Camp of September 2024 at the Master of Science in Data Science at Sapienza about "<i>Multimodal Learning from Language and Vision Processing Neural Networks</i>".
 
