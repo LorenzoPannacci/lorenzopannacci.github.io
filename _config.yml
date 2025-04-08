@@ -122,7 +122,7 @@ content:
           icon: fab fa-github
           url: github.com/LorenzoPannacci/SPML-FinalProject
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation.
+          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation, which code I also wrote from scratch in JAX.
 
       # dps final project
       - layout: left
