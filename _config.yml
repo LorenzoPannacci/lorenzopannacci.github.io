@@ -180,7 +180,7 @@ content:
 
       # tlc homeworks
       - layout: left
-        title: Network simulations, traffic analysis and visualization
+        title: Network Simulations, Traffic Analysis and Visualization
         sub_title: Dec 2022
         additional_links:
         - title: Github repository 1
