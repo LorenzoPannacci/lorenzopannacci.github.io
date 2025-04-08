@@ -168,6 +168,7 @@ content:
 
       # nbd homework
       - layout: left
+        border: weak
         title: Comparison of Data Center Network Topologies
         sub_title: May 2024
         additional_links:
