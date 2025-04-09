@@ -10,7 +10,7 @@ name: Master's Student @ M.Sc. Data Science, Sapienza Università di Roma
 title: Lorenzo Pannacci
 email: lorenzo.pannacci.01@gmail.com
 website: lorenzopannacci.github.io
-description: I am a Master student in Data Science. This is my personal website and portfolio.
+description: My name is Lorenzo Pannacci and I am a Master student in Data Science. This is my personal website and portfolio containing Github projects.
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -188,7 +188,7 @@ content:
           icon: fab fa-github
           url: https://github.com/LorenzoPannacci/MQI-FinalProject
         description: | # this will include new lines to allow paragraphs
-          I researched, wrote and presented a lecture about a comprehensive overview of Datalog and negation, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
+          I researched, wrote and presented a lecture about a comprehensive overview of Datalog and the introduction of negation within the language, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
 
 
       # tlc homeworks
