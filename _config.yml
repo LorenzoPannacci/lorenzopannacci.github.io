@@ -188,7 +188,7 @@ content:
           icon: fab fa-github
           url: https://github.com/LorenzoPannacci/MQI-FinalProject
         description: | # this will include new lines to allow paragraphs
-          I researched and wrote a lecture about a comprehensive overview of Datalog and negation, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
+          I researched, wrote and presented a lecture about a comprehensive overview of Datalog and negation, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
 
 
       # tlc homeworks
