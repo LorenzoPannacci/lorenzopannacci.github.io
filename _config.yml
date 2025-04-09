@@ -178,6 +178,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           I designed and implemented a scenario to confront two well-known data center networking topologies for distribuited computing (Fat-Tree and Jellyfish), against a baseline of a non-distribuited computation. Using simulations I obtained data about their job running cost including overhead and mean response time varying the amount of servers and summarized my findings in plots.
 
+      # mqi final project
+      - layout: left
+        border: weak
+        title: Lecture on Datalog and Negation
+        sub_title: September 2023
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: https://github.com/LorenzoPannacci/MQI-FinalProject
+        description: | # this will include new lines to allow paragraphs
+          I researched and wrote a lecture about a comprehensive overview of Datalog and negation, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
+
+
       # tlc homeworks
       - layout: left
         title: Network Simulations, Traffic Analysis and Visualization
