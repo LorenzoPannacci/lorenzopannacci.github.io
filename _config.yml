@@ -69,9 +69,9 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
-          I am currently enrolled as a second year student following the Honours' Programme.
+          I am currently enrolled as a second year student following the Honours' Programme and working on my thesis.
 
-          Recipient of "<i>Exam bonus</i>" merits from Sapienza.
+          Recipient of "<i>Exam bonus</i>" merits from Sapienza University.
 
       # bachelor's degree
       - layout: left
@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 110 / 110 cum laude
 
-          Recipient of "<i>Outstanding student</i>" merits from Sapienza.
+          Recipient of "<i>Outstanding student</i>" merits from Sapienza University.
 
           ---
 
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Grade: 100 / 100 cum laude
 
-          For my performance at the maturity exam I have been awarded by my school and the "Ministero dell'Istruzione e del Merito" (<i>Ministry of Education and Merit</i>). Moreover my name has been recorded inside the "<a href="https://www.indire.it/eccellenze/" target="_blank" rel="noopener noreferrer">Albo Nazionale delle Eccellenze</a>" (<i>National Register of Excellence</i>).
+          For my performance at the maturity exam I have been awarded by my school and the <i>Ministry of Education and Merit</i> and my name has been recorded inside the "<a href="https://www.indire.it/eccellenze/" target="_blank" rel="noopener noreferrer">Albo Nazionale delle Eccellenze</a>" (<i>National Register of Excellence</i>).
 
           ---
 
