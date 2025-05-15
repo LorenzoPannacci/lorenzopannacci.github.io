@@ -62,6 +62,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
+
       # master's degree
       - layout: left
         border: weak
@@ -72,6 +73,7 @@ content:
           I am currently enrolled as a second year student following the Honours' Programme and working on my thesis.
 
           Recipient of "<i>Exam bonus</i>" merits from Sapienza University.
+
 
       # bachelor's degree
       - layout: left
@@ -89,6 +91,7 @@ content:
           In my thesis "<i>Generazione e utilizzo di dati sintetici da scenetridimensionali per l’object detection</i>" (<i>Generating and Using Synthetic Data from Three-Dimensional Scenes for Object Detection</i>) I explored the generation of synthetic data from 3D environments to mitigate the domain shift between training and test data in the setting of precision agriculture. Using NVIDIA Omniverse, I created synthetic datasets of grape clusters and combined them with real-world data to train YOLOv5 object detection models.
           
           The results demonstrated that synthetic data effectively reduced the domain gap, improving object detection accuracy in the target environment. Additionally, I achieved a small performance boost even within the original domain, highlighting the broader potential of synthetic data in supervised learning for computer vision tasks.
+
 
       # high school
       - layout: left
@@ -112,6 +115,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
+
       # spml final project
       - layout: left
         border: weak
@@ -123,6 +127,7 @@ content:
           url: github.com/LorenzoPannacci/SPML-FinalProject
         description: | # this will include new lines to allow paragraphs
           I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation, which code I also wrote from scratch in JAX.
+
 
       # dps final project
       - layout: left
@@ -138,6 +143,7 @@ content:
           
           The result of many example circuits is provided, as integer and float operations, hashing, encryption and coin tossing.
 
+
       # binm final project
       - layout: left
         border: weak
@@ -151,6 +157,7 @@ content:
           My team and I conducted a comparative analysis of state-of-the-art disease gene prioritization algorithms (e.g. DIAMOnD, DiaBLE) and applied them to retinal dystrophy data, with the primary objective of drug repurposing.
           
           We carried out every stage of the pipeline, including data preprocessing, algorithm implementation, and result interpretation. Our findings were then synthesized into a comprehensive report.
+
 
       # nnds final project
       - layout: left
@@ -166,6 +173,7 @@ content:
 
           Listenable examples are provided by processing converting the generated sequences back into MIDI files and converting them into audio using a music synthesizer.
 
+
       # nbd homework
       - layout: left
         border: weak
@@ -177,6 +185,7 @@ content:
           url: https://github.com/LorenzoPannacci/NBD-HW1
         description: | # this will include new lines to allow paragraphs
           I designed and implemented a scenario to confront two well-known data center networking topologies for distribuited computing (Fat-Tree and Jellyfish), against a baseline of a non-distribuited computation. Using simulations I obtained data about their job running cost including overhead and mean response time varying the amount of servers and summarized my findings in plots.
+
 
       # mqi final project
       - layout: left
@@ -194,7 +203,7 @@ content:
       # tlc homeworks
       - layout: left
         title: Network Simulations, Traffic Analysis and Visualization
-        sub_title: Dec 2022
+        sub_title: December 2022
         additional_links:
         - title: Github repository 1
           icon: fab fa-github
