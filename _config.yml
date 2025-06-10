@@ -116,6 +116,19 @@ content:
     content:
 
 
+      # dm final project
+      - layout: left
+        border: weak
+        title: External Sorting Visualization
+        sub_title: May 2025
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/DM-FinalProject
+        description: | # this will include new lines to allow paragraphs
+          I developed an interactive web-based visualization tool for external sorting algorithms: 2-way merge-sort and its generalization into k-way merge-sort. The tool provides an interface where the user select the number of input pages, frames and the amount elements per page. The application provides an animation that makes clear each external memory access and each operation inside the buffer, while also keeping a log about what is happening and recording useful metrics about the execution. The website is available <a href="https://lorenzopannacci.github.io/DM-FinalProject/" target="_blank" rel="noopener noreferrer">here</a>.
+
+
       # spml final project
       - layout: left
         border: weak
