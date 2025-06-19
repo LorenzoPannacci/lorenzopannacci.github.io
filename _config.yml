@@ -119,6 +119,19 @@ content:
       # dm final project
       - layout: left
         border: weak
+        title: StackOverflow User Behavior Analysis
+        sub_title: June 2025
+        additional_links:
+        - title: Github repository
+          icon: fab fa-github
+          url: github.com/LorenzoPannacci/DDMCS-FinalProject
+        description: | # this will include new lines to allow paragraphs
+          In this project I use complex systems and network analysis tool to investigate how the behavior of users on StackOverflow changed since the diffusion of LLMs at the end of 2022. In particular I study how the network of users and questions evolved over time and how the type and the complexity of questions changed.
+
+
+      # dm final project
+      - layout: left
+        border: weak
         title: External Sorting Visualization
         sub_title: May 2025
         additional_links:
