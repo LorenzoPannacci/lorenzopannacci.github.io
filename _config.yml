@@ -120,7 +120,7 @@ content:
       - layout: left
         border: weak
         title: StackOverflow User Behavior Analysis
-        sub_title: June 2025
+        caption: June 2025
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -135,7 +135,7 @@ content:
       - layout: left
         border: weak
         title: External Sorting Visualization
-        sub_title: May 2025
+        caption: May 2025
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -150,7 +150,7 @@ content:
       - layout: left
         border: weak
         title: Distribuited Graph Convolutional Networks
-        sub_title: February 2025
+        caption: February 2025
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -163,7 +163,7 @@ content:
       - layout: left
         border: weak
         title: Yao's Garbled Circuits
-        sub_title: January 2025
+        caption: January 2025
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -178,7 +178,7 @@ content:
       - layout: left
         border: weak
         title: Drug Repurposing for Retinal Distrophy
-        sub_title: January 2025
+        caption: January 2025
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -193,7 +193,7 @@ content:
       - layout: left
         border: weak
         title: Recurrent Neural Network for Music Generation
-        sub_title: December 2024
+        caption: December 2024
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -208,7 +208,7 @@ content:
       - layout: left
         border: weak
         title: Comparison of Data Center Network Topologies
-        sub_title: May 2024
+        caption: May 2024
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -221,7 +221,7 @@ content:
       - layout: left
         border: weak
         title: Lecture on Datalog and Negation
-        sub_title: September 2023
+        caption: September 2023
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -233,7 +233,7 @@ content:
       # tlc homeworks
       - layout: left
         title: Network Simulations, Traffic Analysis and Visualization
-        sub_title: December 2022
+        caption: December 2022
         additional_links:
         - title: Github repository 1
           icon: fab fa-github
@@ -256,7 +256,7 @@ content:
       - layout: left
         border: weak
         title: 1st place @ Training Camp - Multimodal Learning
-        sub_title: September 2024
+        caption: September 2024
         additional_links:
         - title: Github repository
           icon: fab fa-github
@@ -273,7 +273,7 @@ content:
       - layout: left
         border: weak
         title: Best Student @ PCTO Roma Tre - "Da Grande Farò il Biologo"
-        sub_title: February 2019
+        caption: February 2019
         description: | # this will include new lines to allow paragraphs
           During my 4th year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I have been selected as a representative for my school for the project "Da Grande Farò il Biologo", hosted by Roma Tre university's biology department.
 
@@ -282,7 +282,7 @@ content:
       # honourable mention
       - layout: left
         title: Honourable Mention @ GAMUN 2018
-        sub_title: May 2018
+        caption: May 2018
         description: | # this will include new lines to allow paragraphs
           During my 3rd year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I participated in the Global Action Model United Nations (GAMUN) 2018, a simulation of United Nations' diplomatic negotiations hosted at the World Food Programme (WFP) headquarters in Rome and my performances earned me an Honourable Mention at the end of the event.
 
