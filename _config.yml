@@ -116,7 +116,7 @@ content:
     content:
 
 
-      # dm final project
+      # ddmcs final project
       - layout: left
         border: weak
         title: StackOverflow User Behavior Analysis
@@ -141,9 +141,9 @@ content:
           icon: fab fa-github
           url: github.com/LorenzoPannacci/DM-FinalProject
         description: | # this will include new lines to allow paragraphs
-          I developed an interactive web-based visualization tool for external sorting algorithms: 2-way merge-sort and its generalization into k-way merge-sort. The tool provides an interface where the user select the number of input pages, frames and the amount elements per page.
+          I developed an interactive web-based visualization tool for external sorting algorithms: 2-way merge-sort and its generalization into k-way merge-sort. The tool provides an interface where the user selects the number of input pages, frames and the amount elements per page.
           
-          The application provides an animation that makes clear each external memory access and each operation inside the buffer, while also keeping a log about what is happening and recording useful metrics about the execution. The website is available <a href="https://lorenzopannacci.github.io/DM-FinalProject/" target="_blank" rel="noopener noreferrer">here</a>.
+          The application provides an animation that makes clear each external memory access and each operation inside the buffer, while also keeping a log about what is happening and recording useful metrics about the execution. The webpage is available <a href="https://lorenzopannacci.github.io/DM-FinalProject/" target="_blank" rel="noopener noreferrer">here</a>.
 
 
       # spml final project
@@ -156,7 +156,9 @@ content:
           icon: fab fa-github
           url: github.com/LorenzoPannacci/SPML-FinalProject
         description: | # this will include new lines to allow paragraphs
-          I implemented from scratch in JAX the distribuited training and inference algorithms for graph convolutional networks described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>" and compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation, which code I also wrote from scratch in JAX.
+          I implemented from scratch in JAX the distribuited training and inference algorithms for Graph Convolutional Networks (GCNs) described in the paper "<a href="https://ieeexplore.ieee.org/document/9303371" target="_blank" rel="noopener noreferrer"><i>Distributed Training of Graph Convolutional Networks</i></a>", a distribuied optimization scenario where each agent has data about a part of a graph and they agents that communicate over a sparse network topology.
+          
+          I also compared their performances on different datasets varying the amount of agents and against the non-distribuited implementation, which code I also wrote from scratch in JAX.
 
 
       # dps final project
