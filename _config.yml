@@ -147,7 +147,7 @@ content:
         - title: Github repository
           icon: fab fa-github
           url: github.com/LorenzoPannacci/DM-FinalProject
-        - title: webpage
+        - title: Webpage
           icon: fas fa-globe
           url: lorenzopannacci.github.io/DM-FinalProject
         description: | # this will include new lines to allow paragraphs
