@@ -148,7 +148,7 @@ content:
           icon: fab fa-github
           url: github.com/LorenzoPannacci/DM-FinalProject
         - title: webpage
-          icon: fa-solid fa-globe
+          icon: fas fa-globe
           url: lorenzopannacci.github.io/DM-FinalProject
         description: | # this will include new lines to allow paragraphs
           I developed an interactive web-based visualization tool for external sorting algorithms: 2-way merge-sort and its generalization into k-way merge-sort. The tool provides an interface where the user selects the number of input pages, frames and the amount elements per page.
