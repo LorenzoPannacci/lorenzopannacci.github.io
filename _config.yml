@@ -289,6 +289,10 @@ content:
         border: weak
         title: Best Student @ PCTO Roma Tre - "Da Grande Farò il Biologo"
         caption: February 2019
+        additional_links:
+        - title: Website
+          icon: fas fa-globe
+          url: uniroma3.it/studenti/studenti-futuri/percorsi-per-le-competenze-trasversali-e-per-lorientamento/i-progetti-di-roma-tre/scienze/da-grande-faro-il-biologo
         description: | # this will include new lines to allow paragraphs
           During my 4th year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I have been selected as a representative for my school for the project "Da Grande Farò il Biologo", hosted by Roma Tre university's biology department.
 
@@ -298,6 +302,10 @@ content:
       - layout: left
         title: Honourable Mention @ GAMUN 2018
         caption: May 2018
+        additional_links:
+        - title: Website
+          icon: fas fa-globe
+          url: diplomacyeducation.org
         description: | # this will include new lines to allow paragraphs
           During my 3rd year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I participated in the Global Action Model United Nations (GAMUN) 2018, a simulation of United Nations' diplomatic negotiations hosted at the World Food Programme (WFP) headquarters in Rome and my performances earned me an Honourable Mention at the end of the event.
 
