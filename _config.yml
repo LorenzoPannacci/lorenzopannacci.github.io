@@ -81,7 +81,9 @@ content:
         caption: March 2025 - August 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
-          During my Honours Programme's activity I was supervised by professor <a href="https://sites.google.com/site/paolodilorenzohp" target="_blank" rel="noopener noreferrer">Paolo di Lorenzo</a> and I worked on the topic of Semantic Communications, related to the work on AI-native communications for the forthcoming 6G network infrastructure. I attended additional Master and PhD-level courses about Internet of Things (IoT), Smart Enviroments and Generative Deep Learning, alongside the standard curriculum of my Master's Degree program. I have also conducted research activity on the topic, working on Latent Space Alignment of Deep Joint Source-Channel Coding models.
+          During my Honours Programme's activity I was supervised by professor <a href="https://sites.google.com/site/paolodilorenzohp" target="_blank" rel="noopener noreferrer">Paolo di Lorenzo</a> and I worked on the topic of Semantic Communications, related to the work on AI-native communications for the forthcoming 6G network infrastructure.
+          
+          I attended additional Master and PhD-level courses about Internet of Things (IoT), Smart Enviroments and Generative Deep Learning, alongside the standard curriculum of my Master's Degree program. I have also conducted research activity on the topic, working on Latent Space Alignment of Deep Joint Source-Channel Coding models.
 
       # bachelor's degree
       - layout: left
