@@ -161,7 +161,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed an interactive web-based visualization tool for external sorting algorithms: 2-way merge-sort and its generalization into k-way merge-sort. The tool provides an interface where the user selects the number of input pages, frames and the amount elements per page.
           
-          The application provides an animation that makes clear each external memory access and each operation inside the buffer, while also keeping a log about what is happening and recording useful metrics about the execution. The aim of this tool is to help students understand the mechanics of external sorting algorithms with a clean and simple animation, highlighting the difference with more classic main-memory sorting algorithms. The webpage is available <a href="https://lorenzopannacci.github.io/DM-FinalProject/" target="_blank" rel="noopener noreferrer">here</a>.
+          The application provides an animation that makes clear each external memory access and each operation inside the buffer, while also keeping a log about what is happening and recording useful metrics about the execution. The aim of this tool is to help students understand the mechanics of external sorting algorithms with a clean and simple animation, highlighting the difference with more classic main-memory sorting algorithms.
 
 
       # spml final project
