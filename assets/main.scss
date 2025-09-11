@@ -4,12 +4,25 @@
 
 @import 'modern-resume-theme';
 
-.custom-cv {
+/* Generic reset for custom icons */
+i[class^="custom-"],
+i[class*=" custom-"] {
   display: inline-block;
-  width: 1em;
-  height: 1em;
-  background: no-repeat center/contain url("/assets/icons/cv.svg");
+  width: 1.2em;   /* adjust size */
+  height: 1.2em;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  font-style: normal; /* remove italic style */
 }
+
+/* Specific Kaggle icon */
+.custom-cv {
+  background-image: url("/assets/icons/cv.svg");
+}
+
+/* Prevent Font Awesome from drawing a glyph inside */
 .custom-cv::before {
-  content: ""; /* hide default font-icon rendering */
+  content: "";
 }
