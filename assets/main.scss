@@ -3,3 +3,13 @@
 ---
 
 @import 'modern-resume-theme';
+
+.custom-cv {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: no-repeat center/contain url("/assets/icons/cv.svg");
+}
+.custom-cv::before {
+  content: ""; /* hide default font-icon rendering */
+}
