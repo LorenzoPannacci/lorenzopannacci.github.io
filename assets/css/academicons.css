@@ -569,3 +569,10 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+/* For dark mode */
+@media (prefers-color-scheme: dark) {
+  .ai {
+    color: black; /* changes icon color in dark mode */
+  }
+}
