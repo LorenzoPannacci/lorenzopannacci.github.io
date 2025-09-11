@@ -38,6 +38,9 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- title: Test
+  icon: '<img src="/assets/icons/cv.svg" alt="CV" width="16" />'
+  url: Test
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
