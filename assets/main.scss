@@ -17,12 +17,10 @@ i[class*=" custom-"] {
   font-style: normal; /* remove italic style */
 }
 
-/* Specific Kaggle icon */
-.custom-cv {
-  background-image: url("/assets/icons/cv.svg");
-}
-
-/* Prevent Font Awesome from drawing a glyph inside */
 .custom-cv::before {
-  content: "";
+  content: ""; /* removes the FA/LA glyph */
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  background: no-repeat center/contain url("/assets/icons/cv.svg");
 }
