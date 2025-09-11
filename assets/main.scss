@@ -3,24 +3,3 @@
 ---
 
 @import 'modern-resume-theme';
-
-/* Generic reset for custom icons */
-i[class^="custom-"],
-i[class*=" custom-"] {
-  display: inline-block;
-  width: 1.2em;   /* adjust size */
-  height: 1.2em;
-  vertical-align: middle;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  font-style: normal; /* remove italic style */
-}
-
-.custom-cv::before {
-  content: ""; /* removes the FA/LA glyph */
-  display: inline-block;
-  width: 1.2em;
-  height: 1.2em;
-  background: no-repeat center/contain url("/assets/icons/cv.svg");
-}
