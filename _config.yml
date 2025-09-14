@@ -144,7 +144,7 @@ content:
           icon: far fa-file-pdf
           url: lorenzopannacci.github.io/DDMCS-FinalProject/presentation.pdf
         description: | # this will include new lines to allow paragraphs
-          In this project I use complex systems and network analysis tools to investigate how the behavior of users on StackOverflow changed since the diffusion of LLMs at the end of 2022. In particular, I studied how the networks of users and questions evolved over time and how the type and the complexity of questions changed.
+          In this project I use complex systems and network analysis tools to investigate how the behavior of users on the website StackOverflow changed since the diffusion of LLMs at the end of 2022. In particular, I studied how the networks of users and questions evolved over time and how the type and the complexity of questions changed.
 
           My results show that while the network was already declining the diffusion of LLMs sped-up the phenomenon while also greatly increasing the complexity of the questions and how niche their topic is, which together with a decline in questions suggests that users may first ask questions to LLMs and if not satisfied, search for help on the website.
 
