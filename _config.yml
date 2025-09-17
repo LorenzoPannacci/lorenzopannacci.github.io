@@ -246,9 +246,9 @@ content:
         title: Lecture on Datalog and Negation
         caption: September 2023
         additional_links:
-        - title: Github repository
-          icon: fab fa-github
-          url: https://github.com/LorenzoPannacci/MQI-FinalProject
+        - title: Presentation
+          icon: far fa-file-pdf
+          url: https://lorenzopannacci.github.io/MQI-FinalProject/presentation.pdf
         description: | # this will include new lines to allow paragraphs
           I researched, wrote and presented a lecture about a comprehensive overview of Datalog and the introduction of negation within the language, covering the foundations of Horn clauses up to advanced semantic extensions like perfect, well-founded, and stable models, with a focus on the computational and logical implications of negation.
 
