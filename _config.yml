@@ -71,10 +71,10 @@ content:
       - layout: left
         border: weak
         title: M.Sc. Data Science
-        caption: 2023 - Current
+        caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
-          I am currently enrolled as a second year student following the Honours' Programme and working on my thesis.
+          I am currently enrolled as a second year student, I have completed my Honours' Programme and I am working on my thesis.
 
           Recipient of "<i>Exam bonus</i>" merits from Sapienza University.
 
