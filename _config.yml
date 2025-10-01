@@ -57,6 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+
 #############
 # EDUCATION #
 #############
@@ -77,16 +78,20 @@ content:
 
           Recipient of "<i>Exam bonus</i>" merits from Sapienza University.
 
+
       # honours programme
       - layout: left
         border: weak
         title: Honours Programme
-        caption: March 2025 - August 2025
+        caption: March 2025 - September 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
           During my Honours Programme's activity I was supervised by professor <a href="https://sites.google.com/site/paolodilorenzohp" target="_blank" rel="noopener noreferrer">Paolo di Lorenzo</a> and I worked on the topic of Semantic Communications, related to the work on AI-native communications for the forthcoming 6G network infrastructure.
           
           I attended additional Master and PhD-level courses about Internet of Things (IoT), Smart Enviroments and Generative Deep Learning, alongside the standard curriculum of my Master's Degree program. I have also conducted research activity on the topic, working on Latent Space Alignment of Deep Joint Source-Channel Coding models.
+
+          My work culminated in the publication together with the SPAICOM lab of Sapienza of the paper "Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding", of which I am first author and which submitted and accepted for at the IEEE Global Communications Conference of 2025 in the workshop of "AI native Communications Systems - Towards Integrated Intelligent and Highly Efficient Systems".
+
 
       # bachelor's degree
       - layout: left
@@ -122,9 +127,22 @@ content:
 
           During my time in high school, I participated in various student competitions of math and computer science at school, regional, and national levels both alone and in teams.
 
+
+################
+# PUBLICATIONS #
+################
+
+
+  - title: Publications
+    layout: text
+    content: |
+      L. Pannacci, S. Fiorellino, M. E. Pandolfo, E. Calvanese Strinati, and P. Di Lorenzo, Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding, Proc. of IEEE Globecom workshops, Taipei, 2025.
+
+
 ############
 # PROJECTS #
 ############
+
 
   - title: Featured Projects
     layout: list # Type of content section (list/text)
@@ -267,13 +285,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           My team and I used the C++ library  <i>ns-3</i> to create network simulations of TCP/UDP connections between machines both in wired and WLAN mobile enviroments and then used the software <i>Wireshark</i> to perform packet traffic analysis and visualized the communication using <i>NetAnim</i>.
 
+
 ###########################
 # AWARDS AND COMPETITIONS #
 ###########################
 
+
   - title: Awards and Competitions
     layout: list # Type of content section (list/text)
     content:
+
 
       # training camp
       - layout: left
@@ -292,6 +313,7 @@ content:
 
           The competition was about reverse-engineering a image-generating model by extracting the hidden context it has been given starting from the generated image and its original textual description.
 
+
       # pcto roma 3
       - layout: left
         border: weak
@@ -306,6 +328,7 @@ content:
 
           The project consisted in a full-time week of lectures and laboratory sessions made by biology professors from the university and ended with a final examination. Thanks to my score in the evaluation I have been awarded the possibility of entering the bachelor's course of biology at Roma Tre university without taking the admission test.
 
+
       # honourable mention
       - layout: left
         title: Honourable Mention @ GAMUN 2018
@@ -317,16 +340,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my 3rd year of high school as part of "Percorsi per le Competenze Trasversali e per l'Orientamento" (<i>Paths for transversal skills and orientation</i>) I participated in the Global Action Model United Nations (GAMUN) 2018, a simulation of United Nations' diplomatic negotiations hosted at the World Food Programme (WFP) headquarters in Rome and my performances earned me an Honourable Mention at the end of the event.
 
-  - title: Publications
-    layout: text
-    content: |
-      Coming soon ;)
 
-# Footer
+# footer
 footer_show_references: false
 # references_title: References on request (Override references text)
 
-# Build settings
+# build settings
 remote_theme: sproogen/resume-theme
 
 sass:
