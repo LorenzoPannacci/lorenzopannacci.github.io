@@ -2,8 +2,10 @@
 repository: sproogen/resume-theme
 favicon: assets/favicon.ico
 
+
 # Content configuration version
 version: 2
+
 
 # Personal info
 name: Master's Student @ M.Sc. Data Science, Sapienza Università di Roma
@@ -12,8 +14,10 @@ email: lorenzo.pannacci.01@gmail.com
 website: lorenzopannacci.github.io
 description: Lorenzo Pannacci is a Master student in Data Science. This is his personal website and portfolio containing Github projects.
 
+
 # Dark Mode (true/false/never)
 darkmode: false
+
 
 # Social links
 # twitter_username: facespics
@@ -30,23 +34,26 @@ linkedin_username: lorenzo-pannacci
 # googleplus_username: +jekyll
 orcid_username: 0009-0009-5906-4352
 
+
 # Additional icon links
 additional_links:
 - title: Kaggle link
   icon: fab fa-kaggle
   url: https://www.kaggle.com/lorenzopannacci
+- title: Curriculum vitae
+  icon: ai ai-cv
+  url: https://lorenzopannacci.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-- title: Test
-  icon: ai ai-cv
-  url: https://lorenzopannacci.github.io
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+
 
 # About Section
 about_title: About Me
@@ -61,6 +68,7 @@ content:
 #############
 # EDUCATION #
 #############
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,7 +98,7 @@ content:
           
           I attended additional Master and PhD-level courses about Internet of Things (IoT), Smart Enviroments and Generative Deep Learning, alongside the standard curriculum of my Master's Degree program. I have also conducted research activity on the topic, working on Latent Space Alignment of Deep Joint Source-Channel Coding models.
 
-          My work culminated in the publication together with the SPAICOM lab of Sapienza of the paper "Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding", of which I am first author and which submitted and accepted for at the IEEE Global Communications Conference of 2025 in the workshop of "AI native Communications Systems - Towards Integrated Intelligent and Highly Efficient Systems".
+          My work culminated in the publication together with the SPAICOM Lab of Sapienza of the paper "Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding", of which I am first author and which was submitted and accepted for at the IEEE Global Communications Conference of 2025 in the workshop of "AI native Communications Systems - Towards Integrated Intelligent and Highly Efficient Systems".
 
 
       # bachelor's degree
@@ -136,7 +144,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      L. Pannacci, S. Fiorellino, M. E. Pandolfo, E. Calvanese Strinati, and P. Di Lorenzo, Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding, Proc. of IEEE Globecom workshops, Taipei, 2025.
+      L. Pannacci, S. Fiorellino, M. E. Pandolfo, E. Calvanese Strinati, and P. Di Lorenzo, Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding, Proceedings of IEEE Globecom workshops, Taipei, 2025.
 
 
 ############
