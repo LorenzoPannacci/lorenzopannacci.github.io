@@ -145,8 +145,7 @@ content:
     layout: text
     content: |
       L. Pannacci, S. Fiorellino, M. E. Pandolfo, E. Calvanese Strinati, and P. Di Lorenzo, Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding, Proceedings of IEEE Globecom workshops, Taipei, 2025.
-      Github Repository: https://github.com/LorenzoPannacci/DJSCC-Semantic-Equalization
-      Arxiv Preprint: https://www.arxiv.org/abs/2510.04674
+      <a href="https://github.com/LorenzoPannacci/DJSCC-Semantic-Equalization" target="_blank" rel="noopener noreferrer">Github Repository</a>. <a href="https://www.arxiv.org/abs/2510.04674" target="_blank" rel="noopener noreferrer">Arxiv Preprint</a>. 
 
 
 ############
