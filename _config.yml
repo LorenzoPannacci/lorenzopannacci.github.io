@@ -94,7 +94,7 @@ content:
 
           The findings indicate that Q-Filters encode interpretable patterns on what is to be removed, in particular global mechanisms that systematically deprioritize structural tokens such as punctuation, formatting elements, prepositions, and other syntactically predictable components that carry minimal semantic content.
 
-          This study represents the first application of automated mechanistic interpretability to KV cache compression techniques.
+          This study represents the first application of mechanistic interpretability to KV cache compression techniques.
 
       # honours programme
       - layout: left
