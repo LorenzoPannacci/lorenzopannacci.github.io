@@ -90,9 +90,7 @@ content:
 
           In my thesis "<i>Interpreting KV Cache Compression Methods in Modern LLMs</i>" I investigated a largely unexplored intersection between two research fields on LLMs: applying automated mechanistic interpretability techniques to understand KV cache compression methods, an important optimization for LLMs. In particular, I studied if it is possible to obtain natural language explanations for the behavior of those compression methods, and if those can give insights on how to improve such methods.
 
-          I adapted the Delphi automated interpretability framework to analyze Q-Filters, a recently proposed KV cache compression technique that leverages query-key geometry for compression, while maintaining compatibility with critical optimizations for LLMs like FlashAttention.
-
-          The findings indicate that Q-Filters encode interpretable patterns on what is to be removed, in particular global mechanisms that systematically deprioritize structural tokens such as punctuation, formatting elements, prepositions, and other syntactically predictable components that carry minimal semantic content.
+          I adapted the Delphi automated interpretability framework to analyze Q-Filters, a recently proposed KV cache compression technique that leverages query-key geometry for compression, while maintaining compatibility with critical optimizations for LLMs like FlashAttention. The findings indicate that Q-Filters encode interpretable patterns on what is to be removed, in particular global mechanisms that systematically deprioritize structural tokens such as punctuation, formatting elements, prepositions, and other syntactically predictable components that carry minimal semantic content.
 
           This study represents the first application of mechanistic interpretability to KV cache compression techniques.
 
