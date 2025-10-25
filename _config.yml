@@ -8,11 +8,11 @@ version: 2
 
 
 # Personal info
-name: Master's Student @ M.Sc. Data Science, Sapienza Università di Roma
+name: Master's Graduate @ M.Sc. Data Science, Sapienza Università di Roma
 title: Lorenzo Pannacci
 email: lorenzo.pannacci.01@gmail.com
 website: lorenzopannacci.github.io
-description: Lorenzo Pannacci is a Master student in Data Science. This is his personal website and portfolio containing Github projects.
+description: Lorenzo Pannacci is a Master's Graduate in Data Science. This is his personal website and portfolio containing Github projects.
 
 
 # Dark Mode (true/false/never)
@@ -82,10 +82,21 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
-          I am currently enrolled as a second year student, I have completed my Honours' Programme and I am working on my thesis.
+          Grade: 110 / 110 cum laude and honours
 
           Recipient of "<i>Exam bonus</i>" merits from Sapienza University.
 
+          ---
+
+          In my thesis "<i>Interpreting KV Cache Compression Methods in Modern LLMs<\i>" I investigated a largely unexplored intersection between these two aspects: applying automated mechanistic interpretability techniques to understand KV cache compression methods, an important optimization for LLMs.
+          
+          In particular, I studied if it is possible to obtain natural language explanations for the behavior of those compression methods, and if those can give insights on how to improve such methods.
+
+          I adapted the Delphi automated interpretability framework to analyze Q-Filters, a recently proposed KV cache compression technique that leverages query-key geometry for compression, while maintaining compatibility with critical optimizations for LLMs like FlashAttention.
+
+          The findings indicate that Q-Filters encode interpretable patterns on what is to be removed, in particular global mechanisms that systematically deprioritize structural tokens such as punctuation, formatting elements, prepositions, and other syntactically predictable components that carry minimal semantic content. It is observed that these patterns emerge consistently across heads and layers. Additionally, evidence of head-specific specialization is identified, where certain attention heads exhibit distinct preferences for particular token types, including proper names, geographical locations, and numerical expressions.
+
+          This study represents the first application of automated mechanistic interpretability to KV cache compression techniques.
 
       # honours programme
       - layout: left
