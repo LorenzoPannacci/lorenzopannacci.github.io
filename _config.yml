@@ -314,6 +314,18 @@ content:
     content:
 
 
+      # almalaurea high-flyers
+      - layout: left
+        border: weak
+        title: Selected @ High-Flyers Day - Information Technology - Almalaurea
+        caption: October 2025
+        additional_links:
+        - title: Website
+          icon: fas fa-globe
+          url: aziende.almalaurea.it/it/lau/eventi_bacheca/evento/1515/
+        description: | # this will include new lines to allow paragraphs
+          I have been selected as one of the best 20 graduates from all universities in Italy to participate to a series of interviews with prestigious national and multinational companies.
+
       # training camp
       - layout: left
         border: weak
