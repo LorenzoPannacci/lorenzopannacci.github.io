@@ -311,6 +311,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
+      # bip xtech talent week
+      - layout: left
+        border: weak
+        title: Winner @ BIP AI Talent Week 2025
+        caption: December 2025
+        additional_links:
+        - title: Website
+          icon: fas fa-globe
+          url: https://www.vgen.it/it/artificial-intelligence-talent-week-2025/
+        description: | # this will include new lines to allow paragraphs
+          I participated to a week of webinars, challenges and online skill tests hosted by Bip.xTech and Datwave on the topic of artifical intelligence and as one of the best participants I won the possibility of accessing a fast track  for an interview at BIP and Datwave.
+
 
       # almalaurea high-flyers
       - layout: left
@@ -327,7 +339,7 @@ content:
       # training camp
       - layout: left
         border: weak
-        title: 1st place @ Training Camp - Multimodal Learning
+        title: 1st place @ Leonardo Training Camp - Multimodal Learning
         caption: September 2024
         additional_links:
         - title: Github repository
