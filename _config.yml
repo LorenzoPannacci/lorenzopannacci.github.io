@@ -320,8 +320,14 @@ content:
         - title: Website
           icon: fas fa-globe
           url: https://www.vgen.it/it/artificial-intelligence-talent-week-2025/
+        - title: Leaderboard
+          icon: fas fa-globe
+          url: https://www.vgen.it/bip-ai-talent-week-2025-partecipazione/
+        - title: Presentation
+          icon: far fa-file-pdf
+          url: lorenzopannacci.github.io/content/aitalentweek_certificate.pdf
         description: | # this will include new lines to allow paragraphs
-          I participated to a week of webinars, challenges and skill tests hosted by VGen and organized by Bip.xTech and Datwave on the topic of machine learning and artifical intelligence. As winner of the challenge I got the opportunity of accessing a fast track for interviews at BIP and Datwave.
+          I participated to a week of webinars, challenges and skill tests hosted by VGen and organized by Bip.xTech and Datwave on the topic of machine learning and artifical intelligence. My model resulted as the one with the highest performances and as winner of the challenge I got the opportunity of accessing a fast track for interviews at BIP and Datwave.
 
 
       # almalaurea high-flyers
