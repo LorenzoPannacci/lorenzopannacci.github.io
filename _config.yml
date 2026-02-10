@@ -8,7 +8,7 @@ version: 2
 
 
 # Personal info
-name: Master's Graduate @ M.Sc. Data Science, Sapienza Università di Roma
+name: AI Decision Science Analyst @ Accenture | M.Sc. Data Science @ Sapienza | B.Sc. Computer and System Engineering @ Sapienza
 title: Lorenzo Pannacci
 email: lorenzo.pannacci.01@gmail.com
 website: lorenzopannacci.github.io
@@ -64,6 +64,33 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+##############
+# EXPERIENCE #
+##############
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+
+      # accenture
+      - layout: left
+        border: weak
+        title: Ind & Func AI Decision Science Analyst
+        caption: February 2025 - Current
+        sub_title: Accenture
+        description: | # this will include new lines to allow paragraphs
+
+
+      # research collaborator
+      - layout: left
+        border: weak
+        title: Research Collaborator
+        caption: March 2025 - December 2025
+        sub_title: Sapienza Università di Roma, DIET Department, SPAICOM Lab
+        description: | # this will include new lines to allow paragraphs
+          The work of my honours programme continued as an additional external collaboration and culminated in the publication of the paper "<i>Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding</i>", of which I am first author and which was submitted, accepted and presented at the IEEE Global Communications Conference of 2025 in the workshop of "AI native Communications Systems - Towards Integrated Intelligent and Highly Efficient Systems".
 
 #############
 # EDUCATION #
@@ -98,14 +125,12 @@ content:
       - layout: left
         border: weak
         title: Honours Programme
-        caption: March 2025 - September 2025
+        caption: March 2025 - October 2025
         sub_title: Sapienza Università di Roma
         description: | # this will include new lines to allow paragraphs
           During my Honours Programme's activity I was supervised by professor <a href="https://sites.google.com/site/paolodilorenzohp" target="_blank" rel="noopener noreferrer">Paolo di Lorenzo</a> and I worked on the topic of Semantic Communications, related to the work on AI-native communications for the forthcoming 6G network infrastructure.
           
           I attended additional Master and PhD-level courses about Internet of Things (IoT), Smart Enviroments and Generative Deep Learning, alongside the standard curriculum of my Master's Degree program. I have also conducted research activity on the topic, working on Latent Space Alignment of Deep Joint Source-Channel Coding models.
-
-          My work culminated in the publication together with the SPAICOM Lab of Sapienza of the paper "<i>Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding</i>", of which I am first author and which was submitted and accepted at the IEEE Global Communications Conference of 2025 in the workshop of "AI native Communications Systems - Towards Integrated Intelligent and Highly Efficient Systems".
 
 
       # bachelor's degree
